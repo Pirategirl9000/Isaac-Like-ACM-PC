@@ -1,5 +1,3 @@
-package Canvas;
-
 import javax.swing.*;
 import java.awt.*;
 
